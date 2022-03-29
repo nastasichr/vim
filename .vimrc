@@ -17,6 +17,7 @@ Plugin 'vim-airline/vim-airline'
 Plugin 'junegunn/fzf'
 Plugin 'junegunn/fzf.vim'
 Plugin 'jremmen/vim-ripgrep'
+Plugin 'tpope/vim-fugitive'
 
 call vundle#end()
 filetype plugin indent on
